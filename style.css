@@ -20,3 +20,25 @@ h1 {
     color: cornflowerblue;
     cursor: pointer;
 }
+
+#menu {
+
+    position: fixed;
+    right: 0;
+    top: 50%;
+    width: 8em;
+    margin-top: -2.5em;
+    color:whitesmoke;
+      
+}
+
+#menu a {
+
+    text-decoration: none;
+    color: whitesmoke;  
+}
+
+#menu img {
+
+    padding: 5px;
+}
