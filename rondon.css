@@ -1,0 +1,63 @@
+html {
+      
+    background-image: linear-gradient(90deg, #01d2f7, #b8d4dd);
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    border: 0px;
+    background-size: contain;
+         
+}
+
+h1 {
+
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 60px;
+}
+h2 {
+
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 60px;
+}
+h3 {
+
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+}
+
+body {
+
+    margin: 0px;
+    border: 0px;
+    overflow-x: hidden;
+
+}
+
+header {
+
+    text-align: center;
+}
+
+main {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 45px;
+    color: whitesmoke;
+    text-align: center;
+    padding-top: 40px;
+}
+
+
+.links a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-right: 20px;  
+}
+
+.links a:hover {
+    color: rgb(55, 10, 253);
+}
